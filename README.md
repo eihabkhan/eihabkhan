@@ -1,8 +1,7 @@
 <p align="center">
   <samp>
-    <a href="https://eihabkhan.com">me</a> .
-    <a href="https://eihabkhan.com/work">work</a> .
-    <a href="https://read.cv/eihab">resume</a> .
-    <a href="https://twitter.com/itseihab">X</a>
+    <a href="https://eihab.me">me</a> .
+    <a href="https://eihab.me/work">work</a> .
+    <a href="https://x/itseihab">X</a>
   </samp>
 </p>
